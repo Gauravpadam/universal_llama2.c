@@ -1,5 +1,5 @@
 # Universal LLAMA2.c
-This is a fork of [Andrej Karpathy's llama2.c](https://github.com/karpathy/llama2.c) with the refactorization of training the model on your own dataset
+This is a fork of Andrej Karpathy's [llama2.c](https://github.com/karpathy/llama2.c) with the refactorization of training the model on your own dataset
 
 ## How to use this repository
 1. Clone or fork & clone
