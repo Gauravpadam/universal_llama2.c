@@ -6,8 +6,8 @@ This is a fork of [Andrej Karpathy's llama2.c](https://github.com/karpathy/llama
 1. Setup the environment variable (.env) by referring to the .env.sample file provided
 1. Run the following commands
 ```
-python universal_stager.py
-download python universal_stager.py pretokenize
+python universal_stager.py download
+python universal_stager.py pretokenize
  ```
 
 Now, your dataset is ready
